@@ -6,9 +6,6 @@ function btn(){
     if(email.value ===''||password.value ===''||name1.value===''){
         alert("pls fill the form completely")
     }
-    else if(email.value===''||password.value===''){
-        alert("pls fill the form completely")
-    }
     else{
         alert("sucessfully sign in")
     }
